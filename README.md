@@ -25,7 +25,8 @@ Make sure you have Python 3 installed with the following package:
 
 ```bash
 pip install matplotlib
-s
+```
+
 ## Example Results
 
 Below are the cumulative cost comparisons for different daily coffee consumptions:
